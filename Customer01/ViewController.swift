@@ -14,8 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let testVariable = 1
         let testvariable2 = 2
+        let testvariable3 = 3
         print(testVariable)
         print(testvariable2)
+        print(testvariable3)
         // Do any additional setup after loading the view.
     }
 
